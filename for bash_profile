@@ -1,3 +1,8 @@
+chsh -s /usr/local/bin/bash
+vi .bash_profile
+
+
+
 # for Brew
 export PATH="/usr/local/bin:$PATH"
 # Hides the default login message
